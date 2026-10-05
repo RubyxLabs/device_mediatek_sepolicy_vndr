@@ -3,3 +3,6 @@
 # ==============================================
 
 type mtd_device, dev_type;
+
+# Legacy alarm device accessed by the system_ext PowerOffAlarm app.
+type alarm_device, dev_type;
